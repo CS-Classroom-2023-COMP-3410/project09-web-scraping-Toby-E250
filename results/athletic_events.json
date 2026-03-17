@@ -1,0 +1,104 @@
+{
+    "events": [
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Davidson",
+            "date": "March 13, 2026"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Stetson",
+            "date": "March 13, 2026"
+        },
+        {
+            "duTeam": "Skiing",
+            "opponent": "20K Freestyle",
+            "date": "March 14, 2026"
+        },
+        {
+            "duTeam": "Men's Soccer",
+            "opponent": "UCCS",
+            "date": "March 14, 2026"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "(25) Oregon State",
+            "date": "March 14, 2026"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "Western Michigan",
+            "date": "March 14, 2026"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Penn",
+            "date": "March 15, 2026"
+        },
+        {
+            "duTeam": "Women's Soccer",
+            "opponent": "University of Colorado Colorado Springs",
+            "date": "March 15, 2026"
+        },
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "Syracuse",
+            "date": "March 16, 2026"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Charlotte",
+            "date": "March 17, 2026"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Big 12 Championship",
+            "date": "March 21, 2026"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "Minnesota Duluth",
+            "date": "March 21, 2026"
+        },
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "Duke",
+            "date": "March 22, 2026"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "UConn",
+            "date": "March 22, 2026"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 1/2",
+            "date": "March 23, 2026"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Cal Poly",
+            "date": "March 23, 2026"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 3",
+            "date": "March 24, 2026"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 1",
+            "date": "March 24, 2026"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 2",
+            "date": "March 25, 2026"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Gonzaga",
+            "date": "March 25, 2026"
+        }
+    ]
+}
